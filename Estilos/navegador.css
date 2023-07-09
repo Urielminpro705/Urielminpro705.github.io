@@ -16,6 +16,10 @@
     justify-content: center;
 }
 
+h1 {
+    font-family: 'Inter', sans-serif;
+}
+
 #nav {
     border-radius: 20px;
     background-color: red;
