@@ -1,8 +1,15 @@
 #navegador {
-    background-color: red;
-    height: 94%;
-    margin-top: 10px;
-    margin-bottom: 10px;
+    display: grid;
+    grid-template-rows: 10% 80% 10%;
+    height: 100%;
+    width: 300px;
     padding: 0;
+    padding-left: 30px;
     position: fixed;
+}
+
+#nav {
+    border-radius: 20px;
+    background-color: red;
+    grid-row: 2;
 }
