@@ -8,8 +8,18 @@
     position: fixed;
 }
 
+#titulo {
+    display: flex;
+    padding: 0;
+    grid-row: 1;
+    align-items: center;
+    justify-content: center;
+}
+
 #nav {
     border-radius: 20px;
     background-color: red;
+    display: grid;
+    grid-template-rows: 10% 80% 10%;
     grid-row: 2;
 }
