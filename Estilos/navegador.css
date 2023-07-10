@@ -23,11 +23,10 @@ h1 {
 }
 
 #nav {
-    background-color: #f1f1f1;
+    background-color: #fbfbfb;
+    border: 2px rgb(243, 243, 243) solid;
     border-radius: 20px;
-    box-shadow: 
-        10px 10px 8px 0 #dedede,
-        -10px -10px 8px 0 #ffffff;
+    box-shadow: 5px 5px 0 0 #dfd9d9; 
     display: grid;
     grid-template-rows: 10% 80% 10%;
     grid-row: 2;
