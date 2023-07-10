@@ -1,4 +1,12 @@
 body {
-    background-color: black;
+    background-color: white;
     margin: 0;
+}
+
+#tarjetas {
+    position: relative;
+    top: 30px;
+    left: 400px;
+    width: 100%;
+    height: 100%;
 }
