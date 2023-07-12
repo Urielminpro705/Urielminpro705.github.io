@@ -18,6 +18,7 @@
 }
 
 h1 {
+    color: #7e97b8;
     font-family: 'Inter', sans-serif;
     margin: 0;
 }
@@ -26,7 +27,7 @@ h1 {
     background-color: #fbfbfb;
     border: 2px rgb(243, 243, 243) solid;
     border-radius: 20px;
-    box-shadow: 5px 5px 0 0 #dfd9d9; 
+    box-shadow: 7px 7px 0 0 #e0e8ef; 
     display: grid;
     grid-template-rows: 10% 80% 10%;
     grid-row: 2;
