@@ -24,8 +24,7 @@ h1 {
 }
 
 #nav {
-    background-color: #fbfbfb;
-    border: 2px rgb(243, 243, 243) solid;
+    background-color: #f4fbff;
     border-radius: 20px;
     box-shadow: 7px 7px 0 0 #e0e8ef; 
     display: grid;

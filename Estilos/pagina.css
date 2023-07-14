@@ -3,10 +3,24 @@ body {
     margin: 0;
 }
 
-#tarjetas {
-    position: relative;
-    top: 30px;
-    left: 400px;
-    width: 100%;
-    height: 100%;
+#cuadricula{
+    display: grid;
+    grid-template-columns: 340px auto;
+    grid-template-rows: auto;
 }
+
+.cuadricula2 {
+    display: flex;
+    position: relative;
+    grid-column: 2;
+    background-color: red;
+    height: 100px;
+    width: 100%;
+}
+
+.tarjetas {
+    background-color: black;
+    width: 100px;
+}
+
+
