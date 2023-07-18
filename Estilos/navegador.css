@@ -1,5 +1,6 @@
 #nav {
     background-color: black;
+    display: flex;
     height: 100px;
     position: fixed;
     width: 100%;
