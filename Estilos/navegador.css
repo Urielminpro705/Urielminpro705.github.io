@@ -1,3 +1,6 @@
 #nav {
-    background-color: red;
+    background-color: black;
+    height: 100px;
+    position: fixed;
+    width: 100%;
 }
