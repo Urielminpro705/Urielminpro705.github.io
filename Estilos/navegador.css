@@ -1,19 +1,21 @@
 #nav {
-    background-color: black;
+    display: grid;
+    grid-template-columns: 80px auto 80px;
+    background: rgba(0, 0, 0, 0.708);
     height: 100px;
+    position: fixed;
     width: 100%;
 }
 
 #nav1 {
     align-items: center;
-    background-color: black;
     display: flex;
+    grid-column: 2;
     height: 100%;
-    position: fixed;
     width: 100%;
 }
 
 #perfil {
-    height: 90px;
+    height: 80px;
     border-radius: 50%;
 }
