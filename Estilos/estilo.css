@@ -1,0 +1,16 @@
+body {
+    background-color: #efefef;
+}
+
+*{
+    margin: 0;
+    padding: 0;
+    font-family: 'Noto Sans', sans-serif;;
+}
+
+h1 {
+    background-color: rgb(49, 69, 79);
+    color: #efefef;
+    padding: 20px;
+    text-align: center;
+}
