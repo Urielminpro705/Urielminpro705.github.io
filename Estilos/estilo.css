@@ -9,6 +9,7 @@ body {
 }
 
 h1 {
+    font-size: 2.5rem;
     background-color: rgb(49, 69, 79);
     color: #efefef;
     padding: 20px;
