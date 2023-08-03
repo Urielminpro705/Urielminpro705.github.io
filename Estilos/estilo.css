@@ -25,13 +25,14 @@ h1 {
     display: flex;
     flex-wrap: wrap;
     align-items: center;
-    justify-content: space-around;
+    justify-content: space-around ;
     padding: 10px;
     background-color: transparent;
 }
 
 .card {
-    background-color: black;
+    background-color: transparent;
+    border: 2px solid rgb(182, 182, 182);
     margin: 10px;
     width: 300px;
     height: 300px;
