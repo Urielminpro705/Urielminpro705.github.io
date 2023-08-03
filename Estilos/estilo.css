@@ -22,14 +22,15 @@ h1 {
 }
 
 .seccion {
-    height: auto;
     display: flex;
     padding: 10px;
-    background-color: red;
+    background-color: transparent;
 }
 
 .card {
-    
+    background-color: black;
+    width: 1px;
+    height: 1px;
 }
 
 /* h1 {
