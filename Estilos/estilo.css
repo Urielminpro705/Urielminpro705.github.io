@@ -10,6 +10,8 @@ body {
 
 header {
     background-color: rgb(49, 69, 79);
+    color: #efefef;
+    padding: 20px;
 }
     
 /* h1 {
