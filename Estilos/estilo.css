@@ -23,14 +23,19 @@ h1 {
 
 .seccion {
     display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+    justify-content: space-around;
     padding: 10px;
     background-color: transparent;
 }
 
 .card {
     background-color: black;
-    width: 1px;
-    height: 1px;
+    margin: 10px;
+    width: 300px;
+    height: 300px;
+    border-radius: 10px;
 }
 
 /* h1 {
