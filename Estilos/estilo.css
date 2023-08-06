@@ -55,7 +55,7 @@ h1 {
 
 .fondo:hover {
     transform: scaleY(4);
-    border-radius: 0px;   
+    border-radius: 5%;   
 }
 
 .card {
